@@ -1,0 +1,9 @@
+_id,total_events,failed_events,failure_rate_percentage,average_latency
+chat_escalated,38,19,50.0,478.13
+payment_retry,69,19,27.54,472.68
+search_route,99,0,0.0,456.51
+chat_opened,88,0,0.0,478.33
+delivery_instruction_update,75,0,0.0,496.29
+eta_refresh,105,0,0.0,452.15
+track_order,138,0,0.0,460.71
+cancel_attempt,28,0,0.0,417.14

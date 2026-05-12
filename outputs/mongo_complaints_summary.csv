@@ -1,0 +1,8 @@
+_id,total_complaints,average_severity,average_compensation
+delay,101,1.91,16.8
+missedpickup,64,2.08,22.24
+appissue,53,1.96,18.5
+driverbehaviour,51,2.24,19.08
+supportexperience,20,1.9,17.12
+billing,16,2.06,23.87
+damage,15,2.07,23.98

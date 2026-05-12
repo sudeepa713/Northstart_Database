@@ -1,0 +1,9 @@
+"event_type","total_events","app_failure_rate_percentage","avg_api_latency"
+"chat_escalated",38,50,478.13
+"payment_retry",69,27.54,472.68
+"track_order",138,0,460.71
+"search_route",99,0,456.51
+"eta_refresh",105,0,452.15
+"delivery_instruction_update",75,0,496.29
+"chat_opened",88,0,478.33
+"cancel_attempt",28,0,417.14

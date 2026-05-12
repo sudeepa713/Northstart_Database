@@ -1,0 +1,6 @@
+_id,total_vehicles,average_battery_health
+"{'high_risk_vehicle': 1, 'maintenance_status': 'inrepair'}",36,76.64
+"{'high_risk_vehicle': 1, 'maintenance_status': 'scheduled'}",5,67.3
+"{'high_risk_vehicle': 1, 'maintenance_status': 'active'}",18,60.24
+"{'high_risk_vehicle': 0, 'maintenance_status': 'scheduled'}",12,81.99
+"{'high_risk_vehicle': 0, 'maintenance_status': 'active'}",49,
